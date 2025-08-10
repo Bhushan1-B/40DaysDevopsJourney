@@ -1,0 +1,100 @@
+40-Day DevOps Crash Plan (Simulated 3-Year Skillset)
+Phase 1 – Core Foundations (Days 1–7)
+Goal: Build strong base in Linux, Git, and core DevOps mindset.
+
+Linux Mastery
+
+File system, permissions, processes (ps, top, kill, grep, awk, sed).
+
+Networking basics (ping, netstat, curl, wget, ssh).
+
+Shell scripting (bash loops, conditions, automation).
+
+Git & GitHub
+
+Branching, merging, resolving conflicts, pull requests.
+
+Git workflows (Gitflow, trunk-based).
+
+Concepts to understand deeply
+
+CI/CD basics.
+
+Infrastructure as Code (IaC) idea.
+
+Why DevOps exists (culture, automation, feedback loop).
+
+Phase 2 – Core DevOps Tools (Days 8–20)
+Goal: Master key tools used in real jobs.
+
+Docker (Days 8–10)
+
+Build images, run containers, volumes, networks.
+
+Multi-container with Docker Compose.
+
+Kubernetes (Days 11–14)
+
+Pods, deployments, services, config maps, secrets.
+
+Minikube/local Kubernetes for practice.
+
+Jenkins / GitHub Actions (Days 15–17)
+
+Build a pipeline that builds Docker images, runs tests, and deploys to Kubernetes.
+
+Terraform (Days 18–20)
+
+AWS provider basics (EC2, S3, IAM).
+
+Modules, variables, and state management.
+
+Phase 3 – Cloud & Automation (Days 21–30)
+Goal: Get real cloud deployment experience.
+
+AWS (core services)
+
+EC2, S3, IAM, VPC, CloudWatch, CloudFormation basics.
+
+Deploy a 2-tier app (frontend + backend) on AWS.
+
+Ansible
+
+Playbooks for installing packages, configuring servers.
+
+Monitoring & Logging
+
+Prometheus + Grafana basics.
+
+Log shipping with ELK stack or CloudWatch.
+
+Phase 4 – Project & Interview Prep (Days 31–40)
+Goal: Create portfolio + gain “battle scars” through simulation.
+
+Build 2–3 Real Projects:
+
+CI/CD Pipeline for a Node.js app → Docker → K8s → AWS.
+
+Terraform + Ansible to provision and configure infra.
+
+Monitoring Dashboard with alerts.
+
+Interview Prep:
+
+Common DevOps scenarios (“Pipeline failed after push — what now?”, “K8s pod in CrashLoopBackOff — steps?”).
+
+Whiteboard IaC designs.
+
+💡 How to pull this off:
+
+Dedicate 6–8 hours daily (2–3 before work, 4–5 after).
+
+Follow practice > reading ratio of 70:30.
+
+Use cloud free tiers (AWS Free Tier, GCP free credits, Azure free).
+
+Push all projects to GitHub for portfolio proof.
+
+If you want, I can turn this into a daily hour-by-hour roadmap with exact commands, labs, and tasks so you just follow and build like you’re on a real job. That way, 40 days won’t just give you “theory” — you’ll have portfolio proof of “3 years worth” of work.
+
+Do you want me to make that day-by-day DevOps battle plan? That’s where the magic really happens.
